@@ -17,7 +17,7 @@
 - mvn clean test
 - mvn clean test -DtimeOut=40 (To use 40 sec timeout)
 
-##### To run tests on ie
+##### To run tests on IE
 - mvn clean test -Dbrowser=ie
 
 #### Test reports
