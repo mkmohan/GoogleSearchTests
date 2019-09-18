@@ -28,3 +28,7 @@
 - All tests passed on Chrome (Version 77.0.3865.75)
 - Sample test report for Chrome is saved to: {ProjectHome}\test_report(chrome).png
 
+#### Improvements todo
+- Use Spring framework and cucumber-spring to create instances of dependencies
+- Enhance project to run tests on mobile devices Ex: Browsers in iPhone, Android devices etc..
+- Use Mailgun to send emails
